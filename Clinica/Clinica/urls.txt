@@ -1,0 +1,5 @@
+
+    path('profesionales_medicos/', include("profesionales_medicos.urls")),
+    path('secretaria/', include("secretaria.urls")),
+    path('taller/', include("taller.urls")),
+    path('ventas/', include("ventas.urls")),
